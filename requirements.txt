@@ -2,7 +2,7 @@ gunicorn
 Django>=2.2
 djangorestframework>=3.12.1
 dj-rest-auth
-django-allauth
+django-allauth==0.51.0
 django-cors-headers>=3.0.0
 django-storages
 boto3
